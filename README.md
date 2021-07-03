@@ -7,8 +7,6 @@
 Grounded and solution oriented Computer Science & Engineering student, passionate about Artificial Intelligence and Machine Learning. Dynamic and motivated personality, skilled in building diverse cross functional teams, with an ability to work independently and/or in groups and demonstrating exceptional communication skills. Driven and motivated to make organizations thrive.
 
 - 🌱 I’m currently learning C and C++
-- 📫 How to reach me: mehvishahmed1000@gmail.com
-- 😄 Pronouns: She/Her
 - ⚡ Fun fact: Balloons scare me!
 
 ## 🛠 &nbsp;Tech Stack
@@ -33,6 +31,6 @@ Grounded and solution oriented Computer Science & Engineering student, passionat
     
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mehvishahmed&theme=prussian&hide_border=true)](https://git.io/streak-stats)
   
-  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mehvishahmed.mehvishahmed)
-  
   ![ReadMeCard](https://github-readme-stats.vercel.app/api/pin/?username=mehvishahmed&repo=mehvishahmed)
+  
+  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=mehvishahmed.mehvishahmed)
