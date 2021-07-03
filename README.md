@@ -34,3 +34,5 @@ Grounded and solution oriented Computer Science & Engineering student, passionat
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mehvishahmed&theme=prussian&hide_border=true)](https://git.io/streak-stats)
   
   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mehvishahmed.mehvishahmed)
+  
+  ![ReadMeCard](https://github-readme-stats.vercel.app/api/pin/?username=mehvishahmed&repo=mehvishahmed)
