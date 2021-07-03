@@ -12,6 +12,7 @@ Grounded and solution oriented Computer Science & Engineering student, passionat
 ## 🛠 &nbsp;Tech Stack
 
 - 🌐 &nbsp;
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 
 - 💻 &nbsp;
@@ -34,3 +35,5 @@ Grounded and solution oriented Computer Science & Engineering student, passionat
   ![ReadMeCard](https://github-readme-stats.vercel.app/api/pin/?username=mehvishahmed&repo=mehvishahmed)
   
   ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=mehvishahmed.mehvishahmed)
+
+  [**Like what you see? Nominate me for GitHub Stars!**](https://stars.github.com/nominate/)
