@@ -26,7 +26,7 @@ Grounded and solution oriented Computer Science & Engineering student, passionat
   <a href="https://www.instagram.com/mehvish__ahmed/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"></a>
   <a href="https://twitter.com/mvsh_ahmd?s=09"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"></a>
   
-## &#x1f4c8; My GitHub Stats
+## &#x1f4c8;&nbsp; My GitHub Stats
 
 <a href="https://github.com/mehvishahmed/mehvishahmed">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehvishahmed&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
