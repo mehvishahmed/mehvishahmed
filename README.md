@@ -28,13 +28,10 @@ Grounded and solution oriented Computer Science & Engineering student, passionat
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   
-## 📱Let's Connect
-  ![Linkedn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-  ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
-  ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-  
+## 📱Let's Connect!
+  <a href="https://www.linkedin.com/in/mehvish-a-67bb87120"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+  <a href="https://www.instagram.com/mehvish__ahmed/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"></a>
+  <a href="https://twitter.com/mvsh_ahmd?s=09"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"></a>
   
 ## &#x1f4c8; My GitHub Stats
 
@@ -52,6 +49,8 @@ Grounded and solution oriented Computer Science & Engineering student, passionat
   
   ![ReadMeCard](https://github-readme-stats.vercel.app/api/pin/?username=mehvishahmed&repo=mehvishahmed)
   
+## Profile Views and Followers
   ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=mehvishahmed.mehvishahmed)
-
+  <a href="https://github.com/mehvishahmed?tab=followers"><img src="https://img.shields.io/github/followers/mehvishahmed?label=Followers&style=social" alt="Github Badge"></a>
+  
   [**Like what you see? Nominate me for GitHub Stars!**](https://stars.github.com/nominate/)
