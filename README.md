@@ -13,22 +13,15 @@ Grounded and solution oriented Computer Science & Engineering student, passionat
 
 ## 🛠 &nbsp;Tech Stack
 
-- 🌐 &nbsp;
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+- <img src="https://img.icons8.com/color/48/000000/c-programming.png"/><img src="https://img.icons8.com/color/48/000000/python--v2.png"/>
 
-- 💻 &nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+- <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
 
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+- <img src="https://img.icons8.com/color/48/000000/github-2.png"/><img src="https://img.icons8.com/color/50/000000/git.png"/>
   
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+- <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   
-## 📱Let's Connect!
+## 📱 &nbsp;Let's Connect!
   <a href="https://www.linkedin.com/in/mehvish-a-67bb87120"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
   <a href="https://www.instagram.com/mehvish__ahmed/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"></a>
   <a href="https://twitter.com/mvsh_ahmd?s=09"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"></a>
@@ -40,7 +33,7 @@ Grounded and solution oriented Computer Science & Engineering student, passionat
 </a>
 
 <a href="https://github.com/mehvishahmed/mehvishahmed" align="right">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=mehvishahmed&theme=prussian&show_icons=true&count_private=true" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=mehvishahmed&theme=prussian&show_icons=true&count_private=true" alt="Mehvish's GitHub Stats" />
 </a>
 
   [![Mehvish's github activity graph](https://activity-graph.herokuapp.com/graph?username=mehvishahmed&theme=xcode)](https://git.io/mehvishahmed)
