@@ -49,7 +49,7 @@ Grounded and solution oriented Computer Science & Engineering student, passionat
   
   ![ReadMeCard](https://github-readme-stats.vercel.app/api/pin/?username=mehvishahmed&repo=mehvishahmed)
   
-## Profile Views and Followers
+## ❤️ Profile Views and Followers
   ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=mehvishahmed.mehvishahmed)
   <a href="https://github.com/mehvishahmed?tab=followers"><img src="https://img.shields.io/github/followers/mehvishahmed?label=Followers&style=social" alt="Github Badge"></a>
   
