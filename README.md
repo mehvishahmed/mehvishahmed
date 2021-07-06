@@ -24,11 +24,6 @@ Grounded and solution oriented Computer Science & Engineering student, passionat
   
 - <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   
-## 📱 &nbsp;Let's Connect!
-  <a href="https://www.linkedin.com/in/mehvish-a-67bb87120"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-  <a href="https://www.instagram.com/mehvish__ahmed/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"></a>
-  <a href="https://twitter.com/mvsh_ahmd?s=09"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"></a>
-  
 ## &#x1f4c8;&nbsp; My GitHub Stats
 
 <a href="https://github.com/mehvishahmed/mehvishahmed">
@@ -46,6 +41,12 @@ Grounded and solution oriented Computer Science & Engineering student, passionat
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mehvishahmed&theme=prussian&hide_border=true)](https://git.io/streak-stats)
   
   ![ReadMeCard](https://github-readme-stats.vercel.app/api/pin/?username=mehvishahmed&repo=mehvishahmed)
+  
+ ## 📱 &nbsp;Let's Connect!
+  <a href="https://www.linkedin.com/in/mehvish-a-67bb87120"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+  <a href="https://www.instagram.com/mehvish__ahmed/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"></a>
+  <a href="https://twitter.com/mvsh_ahmd?s=09"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"></a>
+  
   
 ## ❤️ Profile Views and Followers
   ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=mehvishahmed.mehvishahmed)
