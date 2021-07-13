@@ -38,7 +38,7 @@ Grounded and solution oriented Computer Science & Engineering student, passionat
   
   [![Mehvish's github activity graph](https://activity-graph.herokuapp.com/graph?username=mehvishahmed&theme=xcode)](https://git.io/mehvishahmed)
     
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mehvishahmed&theme=prussian&hide_border=true)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mehvishahmed&theme=prussian&hide_border=true)]
   
   ![ReadMeCard](https://github-readme-stats.vercel.app/api/pin/?username=mehvishahmed&repo=mehvishahmed)
   
