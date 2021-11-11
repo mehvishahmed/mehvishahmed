@@ -8,7 +8,7 @@ Grounded and solution oriented Computer Science & Engineering student, passionat
 
 👩‍💻 I practice coding on ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 
-🌱 I’m currently building my own portfolio website.
+🌱 I’m currently learning JavaScript
 
 📬 How to reach me **mehvishahmed1000@gmail.com**
 
