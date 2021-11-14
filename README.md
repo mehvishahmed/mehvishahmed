@@ -34,7 +34,7 @@ Grounded and solution oriented Computer Science & Engineering student, passionat
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=mehvishahmed&theme=prussian&show_icons=true&count_private=true" alt="Mehvish's GitHub Stats" />
 </a>
 
-<b>Note:</b> Top Languages is only a metric of languages my public code consists of and doesn't reflect experience or skill level.
+<b>Note:</b> Most Used Languages is only a metric of languages my public code consists of and doesn't reflect experience or skill level.
   
   [![Mehvish's github activity graph](https://activity-graph.herokuapp.com/graph?username=mehvishahmed&theme=xcode)](https://git.io/mehvishahmed)
     
