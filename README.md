@@ -4,11 +4,9 @@
 
 ## About Me👩‍🎓👋
 
-Grounded and solution oriented Computer Science & Engineering student, passionate about Artificial Intelligence and Machine Learning. Dynamic and motivated personality, skilled in building diverse cross functional teams, with an ability to work independently and/or in groups and demonstrating exceptional communication skills. Driven and motivated to make organizations thrive.
+Grounded and solution-oriented Computer Science and Engineering student, passionate about Artificial Intelligence and Machine Learning. Dynamic and motivated personality, skilled in building diverse cross-functional teams, with an ability to work independently and/or in groups and demonstrating exceptional communication skills. Driven and motivated to make organizations thrive.
 
 👩‍💻 I practice coding on ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
-
-🌱 I’m currently learning JavaScript
 
 📬 How to reach me **mehvishahmed1000@gmail.com**
 
