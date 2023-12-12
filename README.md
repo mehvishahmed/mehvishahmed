@@ -14,13 +14,13 @@ Grounded and solution-oriented Computer Science and Engineering student, passion
 
 ## 🛠 &nbsp;Tech Stack
 
-- <img src="https://img.icons8.com/color/48/000000/c-programming.png"/><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/><img src="https://img.icons8.com/color/48/000000/python--v2.png"/>
+- <img src="https://img.icons8.com/color/48/000000/python--v2.png"/><img src="https://img.icons8.com/color/48/000000/c-programming.png"/><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
 
-- <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/>
+- <img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-net-or-dot-net-a-software-framework-developed-by-microsoft-logo-color-tal-revivo.png" alt="external-net-or-dot-net-a-software-framework-developed-by-microsoft-logo-color-tal-revivo"/><img src="https://img.icons8.com/ios-filled/50/c-sharp-logo.png" alt="c-sharp-logo"/><img src="https://img.icons8.com/external-bearicons-blue-bearicons/64/external-SQL-file-extension-bearicons-blue-bearicons.png" alt="external-SQL-file-extension-bearicons-blue-bearicons"/>
+
+- <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
 
 - <img src="https://img.icons8.com/color/48/000000/github-2.png"/><img src="https://img.icons8.com/color/50/000000/git.png"/>
-  
-- <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   
 ## &#x1f4c8;&nbsp; My GitHub Stats
 
